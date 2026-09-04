@@ -57,16 +57,12 @@ ML & DataViz:  PyTorch, scikit-learn, Hugging Face, Gradio, D3.js, Tableau, Obse
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyanilain&show_icons=true&theme=vue&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyanilain&layout=compact&theme=vue&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumyanilain&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumyanilain&theme=vue" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyanilain&theme=vue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyanilain&theme=github-light&hide_border=true&color=1B5E3F&line=1B5E3F&point=1B5E3F" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=soumyanilain&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Snake animation -->
@@ -77,15 +73,6 @@ ML & DataViz:  PyTorch, scikit-learn, Hugging Face, Gradio, D3.js, Tableau, Obse
 ---
 
 ## 🏆 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/soumyanilain/MotionLCM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyanilain&repo=MotionLCM&theme=vue&hide_border=true" />
-  </a>
-  <a href="https://github.com/soumyanilain/MatchTARA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyanilain&repo=MatchTARA&theme=vue&hide_border=true" />
-  </a>
-</p>
 
 - **[MotionLCM](https://huggingface.co/spaces/soumyanilain/MotionLCM)** — Real-time text-to-motion generation based on the ECCV 2024 paper on latent consistency distillation. Deployed publicly on Hugging Face Spaces.
 - **[MatchTARA](https://matchtara.netlify.app/)** — Full-stack TA/RA hiring platform for university departments. React + Node.js/Express + PostgreSQL + Prisma.
