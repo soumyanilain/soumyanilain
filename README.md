@@ -77,7 +77,7 @@ ML & DataViz:  PyTorch, scikit-learn, Hugging Face, Gradio, D3.js, Tableau, Obse
 - **[MotionLCM](https://huggingface.co/spaces/soumyanilain/MotionLCM)** — Real-time text-to-motion generation based on the ECCV 2024 paper on latent consistency distillation. Deployed publicly on Hugging Face Spaces.
 - **[MatchTARA](https://matchtara.netlify.app/)** — Full-stack TA/RA hiring platform for university departments. React + Node.js/Express + PostgreSQL + Prisma.
 - **[Netflix Viewing Behavior](https://observable-prep-work.observablehq.cloud/netflix-viewing-behavior-analysis)** — Interactive EDA dashboard on 50k+ Netflix records built with Observable Framework and D3.js.
-- **[Portfolio Website](https://soumyanilain.netlify.app)** — This portfolio site itself. Static HTML/CSS/vanilla ES modules, PwC-style layout, AI chat widget, deployed on Netlify.
+- **[Portfolio Website](https://soumyanilain.netlify.app)** — This portfolio site itself. Static HTML/CSS/vanilla ES modules, AI chat widget, deployed on Netlify.
 
 ---
 
