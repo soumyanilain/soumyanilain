@@ -90,7 +90,7 @@ ML & DataViz:  PyTorch, scikit-learn, Hugging Face, Gradio, D3.js, Tableau, Obse
   <a href="mailto:soumyanilain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://soumyanilain.netlify.app">
+  <a href="https://soumyanilain-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-1B5E3F?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://public.tableau.com/app/profile/soumyanil.ain/vizzes">
